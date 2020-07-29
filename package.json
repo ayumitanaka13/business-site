@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
